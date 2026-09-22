@@ -1,2 +1,1 @@
-# Aegis
-Automated Error Guard &amp; Incident System
+# Aegis — Service Desk with automated SLA
